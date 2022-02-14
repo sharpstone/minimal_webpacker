@@ -31,7 +31,7 @@ GEM
       nokogiri (>= 1.5.9)
     method_source (1.0.0)
     mini_portile2 (2.4.0)
-    minitest (5.14.1)
+    minitest (5.15.0)
     nokogiri (1.10.9)
       mini_portile2 (~> 2.4.0)
     rack (2.2.2)
@@ -71,4 +71,4 @@ DEPENDENCIES
   webpacker
 
 BUNDLED WITH
-   2.1.4
+   2.2.32
